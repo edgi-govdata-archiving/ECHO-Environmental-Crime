@@ -5,6 +5,8 @@ Based on the EDGI Repo Guidelines at https://github.com/edgi-govdata-archiving/o
 
 This repo is a template for all EDGI templates. Replace this paragraph with a description of the repo.
 
+[environmental-crime notebook link](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-Environmental-Crime/blob/master/environmental-crime.ipynb)
+
 # How to start contributing to this repo
 * Instructions go here
 * Developer setup (if relevant)
