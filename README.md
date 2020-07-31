@@ -1,4 +1,11 @@
  [![Code of Conduct](https://img.shields.io/badge/%E2%9D%A4-code%20of%20conduct-blue.svg?style=flat)](https://github.com/edgi-govdata-archiving/overview/blob/master/CONDUCT.md)
+# ECHO Environmental Crime
+The workbook shows you the cost, in dollar terms, of the climate change-causing greenhouse gases industries in your city are allowed to release, and whether enforcement actions are taken against facilities who violate the Clean Air Act.
+
+Repo website
+
+[here](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-Environmental-Crime/blob/master/environmental-crime.ipynb)
+
 
 # Template
 Based on the EDGI Repo Guidelines at https://github.com/edgi-govdata-archiving/overview/blob/master/repo_guidelines.md
@@ -6,9 +13,14 @@ Based on the EDGI Repo Guidelines at https://github.com/edgi-govdata-archiving/o
 This repo is a template for all EDGI templates. Replace this paragraph with a description of the repo.
 
 # How to start contributing to this repo
+
+## Link to Jupyter Notebook
+[Here](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-Environmental-Crime/blob/master/environmental-crime.ipynb)
+
 * Instructions go here
 * Developer setup (if relevant)
 * Slack channel (if relevant)
+
 
 **Suggestions for additional components of Readmes:**
 * A "How to use" section if the repo's project is a tool or website
