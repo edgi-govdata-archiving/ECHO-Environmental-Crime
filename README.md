@@ -5,7 +5,6 @@ This repo is home to a project exploring the intersection of white collar crime,
 
 # How to start contributing to this repo
 * Contact @ericnost
-* Slack channel - #eew_coordination
 
 # Link to Jupyter Notebook
 [Here](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-COVID19/blob/main/environmental-crime.ipynb)'s where you can run this notebook.
